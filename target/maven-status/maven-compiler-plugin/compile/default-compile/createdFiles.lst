@@ -1,0 +1,7 @@
+com\norgini\chat\ChatApplication.class
+com\norgini\chat\config\WebSocket.class
+com\norgini\chat\chat\ChatMessage$ChatMessageBuilder.class
+com\norgini\chat\chat\MessageType.class
+com\norgini\chat\chat\ChatController.class
+com\norgini\chat\chat\ChatMessage.class
+com\norgini\chat\component\WebSocketEventListener.class
