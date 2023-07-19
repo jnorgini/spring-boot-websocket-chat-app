@@ -41,14 +41,12 @@
 - **JavaScript**
 - **HTML**
 
-## Mobile
-![Screenshot_1](https://github.com/jnorgini/spring-boot-websocket-chat-app/assets/114461353/0e58194f-130c-476b-a171-bf72a4b8c7de)
-![Screenshot_2](https://github.com/jnorgini/spring-boot-websocket-chat-app/assets/114461353/bc83ab1a-97b3-478a-b925-ff295f08ae02)
-
 
 ## Web
 
-![Screenshot_3](https://github.com/jnorgini/spring-boot-websocket-chat-app/assets/114461353/e2014462-4f54-4d61-8709-a1babcaf0d04)
+https://github.com/jnorgini/spring-boot-websocket-chat-app/assets/114461353/58d1a0ed-8e78-4161-9956-f714fa35069c
+
+
 
 
 
