@@ -46,7 +46,6 @@
 ![Screenshot_2](https://github.com/jnorgini/spring-boot-websocket-chat-app/assets/114461353/bc83ab1a-97b3-478a-b925-ff295f08ae02)
 
 
-
 ## Web
 
 ![Screenshot_3](https://github.com/jnorgini/spring-boot-websocket-chat-app/assets/114461353/e2014462-4f54-4d61-8709-a1babcaf0d04)
