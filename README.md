@@ -18,7 +18,7 @@
 
 ## Sobre
 
-> WebSocket Chat App é uma aplicação de bate-papo em tempo real desenvolvida usando o framework Spring Boot e a tecnologia WebSocket. Ele permite que os usuários se conectem, participem de salas de bate-papo e troquem mensagens em tempo real.
+> WebSocket Chat App é uma aplicação de bate-papo desenvolvida usando o framework Spring Boot e a tecnologia WebSocket. Ele permite que os usuários se conectem, participem de salas de bate-papo e troquem mensagens em tempo real .
 > [Link de acesso](https://websocket-zsq6.onrender.com/) <
 
 </div>
