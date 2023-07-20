@@ -42,10 +42,10 @@
 - **HTML**
 
 
-## Web
+## 
 
-https://github.com/jnorgini/spring-boot-websocket-chat-app/assets/114461353/58d1a0ed-8e78-4161-9956-f714fa35069c
 
+https://github.com/jnorgini/spring-boot-websocket-chat-app/assets/114461353/419a0821-71c4-4c77-a101-93bc8072e95e
 
 
 
